@@ -1,0 +1,21 @@
+        
+        .table {
+            border-radius: 5px;
+            max-width: fit-content;
+            background-color: #fff;
+            box-shadow: -3px -3px 12px rgb(71, 163, 71), 2px 2px 7px rgba(108, 222, 108, .2);
+        }
+
+        input[type="button"] {   
+            width: 100%;       
+            border: none;
+            border-radius: 5px;
+            box-shadow: -3px -3px 10px rgb(71, 163, 71), 1px 1px 5px rgba(108, 222, 108, .2);
+        }
+
+        input[type="text"] {
+            width: 100%;
+            border: none;
+            border-radius: 5px;
+            box-shadow: -3px -3px 10px rgb(71, 163, 71), 1px 1px 5px rgba(108, 222, 108, .2);
+        }
